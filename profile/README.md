@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/QNLogo-NoText.svg" alt="Quasar Studios" width="120" height="120">
+  <img src="../assets/QNLogo-NoText.svg" alt="Quasar Studios" width="120" height="120">
 </p>
 
 <h1 align="center">Quasar Studios</h1>
