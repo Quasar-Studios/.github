@@ -29,5 +29,5 @@
 ---
 
 <p align="center">
-  <sub>© 2026 Quasar Studios</sub>
+  <sub>© 2026 Quasar Studios | Quasar Studios is not a business.</sub>
 </p>
